@@ -1,4 +1,4 @@
-infile="data/example.csv"
+infile=$1
 metric="Deaths"
 for illness in "Ebola" "trematodiases" "Leprosy" "Zika"; do
   echo -n "Splitting out ${metric} data for ${illness}... "
