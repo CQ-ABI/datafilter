@@ -1,2 +1,6 @@
-head -n 1 data/example.csv > out.csv
-grep "Ebola" data/example.csv | grep "Deaths" >> out.csv
+infile="data/example.csv"
+metric="Deaths"
+illness="Ebola"
+outfile=${illness}.csv
+head -n 1 ${infile} > ${outfile}
+grep ${illness} ${infile} | grep ${metric} >> ${outfile}
