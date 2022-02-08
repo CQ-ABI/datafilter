@@ -1,0 +1,541 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1991,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1991,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1991,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1991,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1990,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1990,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1990,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1990,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1992,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1992,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1992,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1992,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1993,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1993,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1993,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1993,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1997,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1997,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1997,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1997,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1994,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1994,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1994,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1994,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1995,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1995,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1995,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1995,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1996,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1996,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1996,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1996,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1998,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1998,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1999,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1999,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1998,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1998,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2001,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2001,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2001,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2001,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2000,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2000,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2002,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2002,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2002,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2002,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1999,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1999,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2000,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2000,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2003,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2003,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2003,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2003,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2005,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2005,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2005,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2005,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2004,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2004,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2004,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2004,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2006,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2006,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2006,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2006,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2008,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2008,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2007,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2007,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2008,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2008,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2009,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2009,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2009,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2009,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2007,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2007,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2012,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2012,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2012,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2012,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2014,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2014,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2013,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2013,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2010,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2010,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2010,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2010,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2014,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2014,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2013,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2013,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2011,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2011,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2011,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2011,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2015,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2015,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2017,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2017,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2017,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2017,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2016,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2016,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2019,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2019,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2019,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2019,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2015,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2015,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2018,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2018,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2018,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2018,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2016,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2016,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1991,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1991,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1992,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1992,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1991,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1991,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1990,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1990,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1990,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1990,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1992,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1992,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1992,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1992,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1990,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1990,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1993,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1993,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1993,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1993,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1993,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1993,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1991,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1991,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1996,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1996,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1995,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1995,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1994,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1994,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1995,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1995,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1996,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1996,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1995,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1995,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1996,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1996,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1994,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1994,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1994,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1994,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1999,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1999,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1997,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1997,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1998,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1998,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1999,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1999,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1997,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1997,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1999,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1999,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1998,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1998,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1998,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1998,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1997,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1997,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2001,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2001,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2000,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2000,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2001,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2001,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2002,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2002,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2000,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2000,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2001,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2001,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2000,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2000,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2002,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2002,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2004,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2004,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2003,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2003,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2003,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2003,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2002,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2002,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2005,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2005,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2005,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2005,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2004,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2004,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2003,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2003,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2004,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2004,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2005,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2005,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2006,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2006,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2007,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2007,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2007,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2007,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2008,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2008,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2006,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2006,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2007,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2007,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2009,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2009,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2006,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2006,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2009,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2009,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2008,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2008,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2010,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2010,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2011,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2011,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2008,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2008,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2011,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2011,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2010,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2010,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2009,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2009,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2011,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2011,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2013,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2013,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2012,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2012,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2014,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2014,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2010,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2010,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2013,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2013,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2014,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2014,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2012,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2012,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2016,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2016,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2013,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2013,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2015,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2015,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2014,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2014,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2012,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2012,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2015,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2015,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2017,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2017,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2016,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2016,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2017,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2017,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2019,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2019,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2015,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2015,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2019,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2019,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2019,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2019,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2016,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2016,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2018,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2018,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2018,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2018,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2017,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2017,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2018,0.0,0.0,0.0
+6,Incidence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1990,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1991,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1993,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2000,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1999,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1995,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1992,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1994,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1997,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1996,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,1998,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2001,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2002,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2003,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2005,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2004,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2007,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2006,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2008,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2011,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2009,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2010,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2017,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2017,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,1,Number,2017,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,405,Leprosy,3,Rate,2017,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,364,Food-borne trematodiases,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2014,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2013,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2012,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,1,Number,2017,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,843,Ebola,3,Rate,2017,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2016,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2018,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2015,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,1,Number,2017,0.0,0.0,0.0
+5,Prevalence,81,Germany,3,Both,22,All Ages,935,Zika virus,3,Rate,2017,0.0,0.0,0.0
