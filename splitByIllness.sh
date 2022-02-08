@@ -1,6 +1,7 @@
 infile="data/example.csv"
 metric="Deaths"
-illness="Ebola"
-outfile=${illness}.csv
-head -n 1 ${infile} > ${outfile}
-grep ${illness} ${infile} | grep ${metric} >> ${outfile}
+for illness in "Ebola" "trematodiases" "Leprosy" "Zika"; do
+  outfile=${illness}.csv
+  head -n 1 ${infile} > ${outfile}
+  grep ${illness} ${infile} | grep ${metric} >> ${outfile}
+done
