@@ -1,0 +1,4 @@
+# Temporary/lock files
+.*
+# Except .gitignore
+!.gitignore
